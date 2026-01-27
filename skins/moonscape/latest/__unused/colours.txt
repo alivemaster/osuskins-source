@@ -1,0 +1,27 @@
+>eznote
+Combo1: 57,158,229
+Combo2: 255,178,89
+Combo3: 255,102,163
+Combo4: 64,191,255
+Combo5: 204,124,71
+
+>slider
+SliderBorder: 115,172,229
+ >prev
+ //SliderBorder: 46,108,153
+ //SliderBorder: 115,182,229
+ //SliderBorder: 115,197,255
+ 
+SliderTrackOverride: 0,28,56
+ >prev
+ //SliderTrackOverride: 0,23,46
+ //SliderTrackOverride: 0,15,31
+
+>menu
+SongSelectActiveText:141,195,255
+SongSelectInactiveText:29,46,64
+
+>hitscore (60x24 px) (65x25 px)
+100 008060
+50 806000
+0 800020

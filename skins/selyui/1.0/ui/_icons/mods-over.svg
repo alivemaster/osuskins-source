@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144"
+   height="144"
+   viewBox="0 0 144 144.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="mods-over.svg"
+   inkscape:export-filename="E:\3\Workshop\Selyui_source\elements\icons\mods-over.png"
+   inkscape:export-xdpi="48"
+   inkscape:export-ydpi="48"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#404040"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="144px"
+     inkscape:zoom="3.1607463"
+     inkscape:cx="131.2981"
+     inkscape:cy="42.23686"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <circle
+       style="font-variation-settings:'wght' 599;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round"
+       id="path850"
+       sodipodi:type="arc"
+       sodipodi:cx="72.002426"
+       sodipodi:cy="72"
+       sodipodi:rx="36"
+       sodipodi:ry="36"
+       sodipodi:start="5.4977871"
+       sodipodi:end="3.9269908"
+       sodipodi:arc-type="arc"
+       d="M 97.458269,46.544155 A 36,36 0 0 1 105.26209,85.776602 36,36 0 0 1 72.002426,108 36,36 0 0 1 38.742763,85.776604 36,36 0 0 1 46.546582,46.544156"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;fill-opacity:1;stroke-width:3.259;stroke-linecap:round"
+       id="rect1856"
+       width="12"
+       height="36"
+       x="66"
+       y="10"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke-width:3.259;stroke-linecap:round"
+       id="rect1682"
+       width="36"
+       height="12"
+       x="54"
+       y="22"
+       rx="6"
+       ry="6" />
+  </g>
+</svg>

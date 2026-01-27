@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="spinner-clear.svg"
+   inkscape:export-filename="E:\3\Workshop\Selyui_source\png\spinner-clear@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#404040"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.357127"
+     inkscape:cx="130.87673"
+     inkscape:cy="85.651899"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="4,181.85391"
+       orientation="-1,0"
+       id="guide1167"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12.662953,188"
+       orientation="0,1"
+       id="guide1169"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="16,184"
+       orientation="-1,0"
+       id="guide1171"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12.898909,156"
+       orientation="0,1"
+       id="guide1173"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="12.191042,192"
+       orientation="0,1"
+       id="guide1288"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,181.6966"
+       orientation="-1,0"
+       id="guide1290"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter855"
+       x="-0.028125"
+       y="-0.028125"
+       width="1.05625"
+       height="1.05625">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="blur"
+         id="feGaussianBlur853" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter851"
+       x="-0.09375"
+       y="-0.09375"
+       width="1.1875"
+       height="1.1875">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood841" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite843" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="5"
+         result="blur"
+         id="feGaussianBlur845" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset847" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite2"
+         id="feComposite849" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter853"
+       x="-0.17405701"
+       y="-0.2262741"
+       width="1.348114"
+       height="1.4525482">
+      <feFlood
+         flood-opacity="0.75"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood843" />
+      <feComposite
+         in="SourceGraphic"
+         in2="flood"
+         operator="in"
+         result="composite1"
+         id="feComposite845" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur847" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset849" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite851" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="font-variation-settings:'wght' 350;fill:#7f6dd9;fill-opacity:0.5;stroke-width:9.596;filter:url(#filter855)"
+       id="path854"
+       cx="96"
+       cy="96"
+       r="64" />
+    <path
+       style="fill:#edd9ff;fill-opacity:1;stroke:none;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter853)"
+       d="m 68.422828,100.24265 4.242642,-4.242637 12.727921,12.727917 33.941139,-33.94114 4.24264,4.24264 -38.183782,38.18378 z"
+       id="path1336"
+       inkscape:label="path1336" />
+  </g>
+</svg>

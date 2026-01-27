@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144"
+   height="144"
+   viewBox="0 0 144 144.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="link.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#404040"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="144px"
+     inkscape:zoom="0.55874629"
+     inkscape:cx="55.481352"
+     inkscape:cy="-365.99795"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke-width:3.259;stroke-linecap:round"
+       id="rect850"
+       width="12"
+       height="96"
+       x="24"
+       y="24"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke-width:3.259;stroke-linecap:round"
+       id="rect1144"
+       width="96"
+       height="12"
+       x="24"
+       y="108"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;fill-opacity:1;stroke-width:3.259;stroke-linecap:round"
+       id="rect1136"
+       width="12"
+       height="54"
+       x="108"
+       y="66"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;display:inline;fill:#ffffff;stroke-width:3.259;stroke-linecap:round"
+       id="rect1458"
+       width="54"
+       height="12"
+       x="24"
+       y="24"
+       rx="6"
+       ry="6" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;fill-opacity:1;stroke-width:3.259;stroke-linecap:round"
+       id="rect1787"
+       width="12"
+       height="54"
+       x="95.823662"
+       y="-82.3601"
+       rx="6"
+       ry="6"
+       transform="rotate(45)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;fill-opacity:1;stroke-width:3.259;stroke-linecap:round"
+       id="rect1856"
+       width="12"
+       height="36"
+       x="120.0004"
+       y="12.000007"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke-width:3.259;stroke-linecap:round"
+       id="rect1682"
+       width="36"
+       height="12"
+       x="96.000404"
+       y="12.000007"
+       rx="6"
+       ry="6" />
+  </g>
+</svg>

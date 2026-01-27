@@ -1,0 +1,23 @@
+tamplate - y
+1138
+
+16by10
+
+options 2239-1969
+profile 1116-846
+stats 676-536
+stars 887-747
+
+4by3
+
+options 2239-1554
+profile 1116-431
+stats 676-331
+stars 887-542
+
+21by9
+
+options 2239-3174
+profile 1116-2051
+stats 676-1141
+stars 887-1352

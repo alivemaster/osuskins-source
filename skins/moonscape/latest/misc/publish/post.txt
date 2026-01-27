@@ -1,0 +1,71 @@
+[img]https://i.loli.net/2021/08/18/z5C1MxfYX7P4Huj.png[/img]
+
+[size=50]my first skin[/size]
+[s][size=50]dont mind my trash english[/size][/s]
+
+[b][size=150]Downloads[/size][/b]
+[box=direct (latest)]
+[i]via s-ul.eu[/i]
+[url=https://alivemaster.s-ul.eu/XRJRb7n3][size=150].osk file[/size][/url] [i][size=85](2.23MB)[/size][/i]
+[url=https://alivemaster.s-ul.eu/VGYBKHwh][size=150].7z file[/size][/url] [i][size=85](1.46MB)[/size][/i]
+[/box]
+[box=mirrors (latest&history)]
+[url=https://mega.nz/folder/kj5g2C5b#RsMlnbufwmr2vuLVkQlPhw][size=150]MEGA[/size][/url]
+[url=https://drive.google.com/drive/folders/1-IGt2KgnGnfU0-XOAd66_tzcnHxVizyH?usp=sharing][size=150]Google Drive[/size][/url]
+[url=https://pan.baidu.com/s/1m8C7lTS0dzRqOA19kKMy_A][size=150]百度网盘[/size][/url] pw: 4mv3
+[/box]
+[b][size=150]Screenshots[/size][/b]
+[box=menu]
+[img]https://i.loli.net/2021/08/19/4J5GxNjAU3qYWrz.png[/img]-
+[img]https://i.loli.net/2021/08/19/sKWe7lGAVxPqrCF.png[/img]-
+[img]https://i.loli.net/2021/08/19/bLTRN6vHyh7Kj1z.png[/img]
+[/box]
+[box=gameplay]
+[img]https://i.loli.net/2021/08/19/z9EDpXV4yZSrACa.png[/img]-
+[img]https://i.loli.net/2021/08/19/Q67kYCzTDlqGSUO.png[/img]-
+[img]https://i.loli.net/2021/08/19/emhnWVG5FaJjlZu.png[/img]-
+[img]https://i.loli.net/2021/08/19/tznM7L6mZvC4oNR.png[/img]-
+[img]https://i.loli.net/2021/08/19/7WvDTLHgt3Ua1sF.png[/img]-
+[img]https://i.loli.net/2021/08/19/PaNJCAURdgvmbQp.png[/img]-
+[img]https://i.loli.net/2021/08/19/itJ2OUP98wH7yMo.png[/img]-
+[img]https://i.loli.net/2021/08/19/jbBtGhaJcy8eFuK.png[/img]
+[/box]
+[box=ranking]
+[img]https://i.loli.net/2021/08/19/CnHYD1ORd5vhLMT.png[/img]
+[/box]
+
+[b][size=150]Customize[/size][/b]
+[box=PLS READ]
+To apply your customization:
+Copy files inside the folders below, then paste them to the main directory(/osu!/Skins/#moonscape) and replace.
+Go back to game and press Ctrl+Shift+Alt+s to reload skins.
+[box="versions" folder]
+This folder contents the files that decide which version the skin will appear.
+[/box]
+[box="extras" folder]
+This folder contents optional elements: 
+[list][*]approachcircle: 100%opacity/50%opacity[b](default)[/b]/125%opacity[/list]
+[list][*]followpoints: on[b](default)[/b]/off[/list]
+[list][*]cursortrail: lighter/darker/off[b](default)[/b][/list]
+[list][*]sliderfollowcircle: on/off[b](default)[/b][/list]
+[i]Use these files to customize this skin in your own opinion[/i]
+[/box]
+[/box]
+[b][size=150]Credits[/size][/b]
+[box=fonts]
+[url=https://fonts.google.com/specimen/Russo+One]Russo One[/url]
+[url=https://fonts.google.com/specimen/Quicksand]Quicksand[/url]
+[/box]
+[b][size=150]Changelog[/size][/b]
+[box=]
+[list]
+[*]v1.1 [size=85]2021/08/25[/size]
+[size=85]-added darker cursortrail (see in extras folder)[/size]
+[size=85]-added optional approachcircles(see in extras folder)[/size]
+[size=85]-modified sliderfollowcircle[/size]
+[/list]
+[list]
+[*]v1.0 [size=85]2021/08/18[/size]
+[size=85]-first release[/size]
+[/list]
+[/box]

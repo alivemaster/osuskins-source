@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144"
+   height="144"
+   viewBox="0 0 144 144.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="options.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#404040"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="144px"
+     inkscape:zoom="1.5803732"
+     inkscape:cx="199.95277"
+     inkscape:cy="-9.175048"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <circle
+       style="font-variation-settings:'wght' 599;display:none;fill:none;stroke:#ff0000;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="path859"
+       cx="72"
+       cy="72"
+       r="48" />
+    <circle
+       style="font-variation-settings:'wght' 599;display:inline;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:round"
+       id="circle1017"
+       cx="72"
+       cy="72"
+       r="36" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 3">
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1143"
+       width="20"
+       height="12"
+       x="18"
+       y="66"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1389"
+       width="20"
+       height="12"
+       x="106"
+       y="66"
+       rx="6"
+       ry="6" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1400"
+       width="20"
+       height="12"
+       x="-54"
+       y="95.82338"
+       rx="6"
+       ry="6"
+       transform="rotate(-45)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1402"
+       width="20"
+       height="12"
+       x="34"
+       y="95.82338"
+       rx="6"
+       ry="6"
+       transform="rotate(-45)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1404"
+       width="20"
+       height="12"
+       x="-126"
+       y="66"
+       rx="6"
+       ry="6"
+       transform="rotate(-90)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1406"
+       width="20"
+       height="12"
+       x="-38.000004"
+       y="66"
+       rx="6"
+       ry="6"
+       transform="rotate(-90)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1408"
+       width="20"
+       height="12"
+       x="-155.82338"
+       y="-6.0000014"
+       rx="6"
+       ry="6"
+       transform="rotate(-135)" />
+    <rect
+       style="font-variation-settings:'wght' 599;fill:#ffffff;stroke:none;stroke-width:12;stroke-linecap:round;stroke-opacity:1"
+       id="rect1410"
+       width="20"
+       height="12"
+       x="-67.82338"
+       y="-6.0000014"
+       rx="6"
+       ry="6"
+       transform="rotate(-135)" />
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+hover1:
+menuclick
+
+hover2:
+click-short
+pause-hover
+
+click1:
+select-difficulty
+click-close
+click-short-confirm
+menu-play-click
+menu-options-click
+menu-back-click
+menu-direct-click
+
+click2:
+menuhit
+back-button-click
+pause-continue-click
+pause-retry-click
+pause-back-click
+
+click1, click2, combobreak, hover1, hover2, sectionfail, sliderbar - https://opengameart.org/content/512-sound-effects-8-bit-style
+check-off, check-on, spinnerbonus - https://opengameart.org/content/ui-sound-effects-library
+heartbeat, key-press, normal-hitnormal, soft-hitnormal, drum-hitclap, drum-hitwhistle - https://opengameart.org/content/87-clickety-clips
+sectionpass - https://opengameart.org/content/electric-sound-effects-library
+normal-hitclap, soft-hitclap - https://freesound.org/people/qubodup/sounds/54849/
+normal-hitfinish, normal-hitwhistle, soft-hitfinish, soft-hitwhistle - https://opengameart.org/content/impact
+drum-hitnormal, drum-hitfinish - https://freesound.org/people/blukotek/sounds/337813/
